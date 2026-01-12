@@ -120,3 +120,8 @@ Farklı dizi boyutları üzerinde Quick Sort ve Merge Sort’un sıralama sürel
 * Merge Sort ise **kararlı ve garantili** bir algoritmadır.
 
 ---
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Copyright (c) 2025 YusufTufan
